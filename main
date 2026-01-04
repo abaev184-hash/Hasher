@@ -1,0 +1,2 @@
+# VPN Configurations
+vless://70598164-7e47-4bd2-99f0-84a6456fa75c@95.163.249.115:5443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp
